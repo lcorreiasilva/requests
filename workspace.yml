@@ -1,0 +1,12 @@
+opencollection: 1.0.0
+info:
+  name: "My Workspace"
+  type: workspace
+
+collections:
+  - name: "Sample API Collection"
+    path: "/home/vte_lsilva/Documents/bruno/Sample API Collection"
+
+specs:
+
+docs: ''
